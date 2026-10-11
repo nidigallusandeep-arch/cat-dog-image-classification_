@@ -1,0 +1,12 @@
+{
+  "class_names": [
+    "cats",
+    "dogs"
+  ],
+  "image_size": [
+    224,
+    224
+  ],
+  "validation_loss": 0.027510138228535652,
+  "validation_accuracy": 0.9917983412742615
+}
